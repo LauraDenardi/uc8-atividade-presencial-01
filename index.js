@@ -1,7 +1,7 @@
-let listaPecas=[]
-let nomePecas='Peça teste'
-let pesoPeca=300
-let podeCadastrar=true 
+var listaPecas=[]
+var nomePecas='Peça teste'
+var pesoPeca=300
+var podeCadastrar=true 
 
 if (pesoPeca<100){
     console.log('Não há possibilidade de cadastrar!')
