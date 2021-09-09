@@ -1,5 +1,5 @@
 let listaPecas=[]
-let nomePecas='Peca Teste'
+let nomePecas='Peça teste'
 let pesoPeca=300
 let podeCadastrar=true 
 
